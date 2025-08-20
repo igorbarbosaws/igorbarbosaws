@@ -1,4 +1,4 @@
-# [Igor Barbosa] <img src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif" width="60px">
+# [Igor Barbosa] <img src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif" width="30px">
 
 Eu sou <strong>Igor Barbosa</strong>, <strong>Explorando o univeso da programação, estudando ADS. Compartilho projeto e experimentos que refletem minha evolução.</strong> 👨🏻‍💻 
 
