@@ -2,9 +2,9 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :books: &nbsp; <strong>Louco por Dados</strong>
-- 🎓 &nbsp; <strong>Formado em ADM e estudando ADS</strong>
-- :computer: &nbsp; <strong>Banco de Dados, Algoritmo e Estrutura de Dados, Front End.</strong>
+- :books: &nbsp; <strong>Ciência de Dados</strong>
+- 🎓 &nbsp; <strong>ADM - ADS</strong>
+- :computer: &nbsp; <strong>Banco de Dados, Algoritmo e Estrutura de Dados, Coding.</strong>
 
 <p align="center">
 
