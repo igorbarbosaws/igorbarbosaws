@@ -3,7 +3,7 @@
 <h3> :man_office_worker: 💻 Sobre mim: </h3>
 
 - :books: &nbsp; <strong>Ciência de Dados</strong>
-- 🎓 &nbsp; <strong>ADM - ADS</strong>
+- 🎓 &nbsp; <strong>ADM + ADS</strong>
 - :computer: &nbsp; <strong>Python, Banco de Dados.</strong>
 
 <p align="center">
