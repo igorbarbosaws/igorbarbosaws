@@ -1,6 +1,6 @@
 <h2> Olá, me chamo <strong>Igor Barbosa</strong>. <img src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif" width="30"></h2>
 
-<h3> :man_office_worker: 💻 Sobre mim: </h3>
+<h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :books: &nbsp; <strong>Ciência de Dados</strong>
 - 🎓 &nbsp; <strong>ADM - ADS</strong>
