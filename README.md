@@ -1,10 +1,10 @@
-# [Igor Barbosa] <img src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif" width="30px">
+<h2> Oi gente, eu sou o <strong>Igor Barbosa</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-Eu sou <strong>Igor Barbosa</strong>, <strong>Explorando o univeso da programação, estudando ADS. Compartilho projeto e experimentos que refletem minha evolução.</strong> 👨🏻‍💻 
+<h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- 🚀 Atualmente estou aprendendo: <strong>Python e Java</strong> 
-- 💬 Pergunte-me sobre: <strong>Games, futebol e música</strong>
-- 📣 Nós podemos falar em: <strong>Português</strong>
+- :books: &nbsp; <strong>Ciência de Dados</strong>
+- 🎓 &nbsp; <strong>Análise e Desenvolvimento de Sistemas</strong>
+- :computer: &nbsp; <strong>Banco de Dados (DDL, DML), Algoritmo e Estrutura de Dados, Front End.</strong>
 
 <p align="center">
 
