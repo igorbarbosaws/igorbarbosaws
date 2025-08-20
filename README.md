@@ -4,7 +4,7 @@
 
 - :books: &nbsp; <strong>Ciência de Dados</strong>
 - 🎓 &nbsp; <strong>ADM - ADS</strong>
-- :computer: &nbsp; <strong>Banco de Dados, Algoritmo e Estrutura de Dados, Coding.</strong>
+- :computer: &nbsp; <strong>Python, Banco de Dados.</strong>
 
 <p align="center">
 
