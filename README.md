@@ -4,7 +4,7 @@
 
 - :books: &nbsp; <strong>Louco por Dados</strong>
 - 🎓 &nbsp; <strong>Formado em ADM e estudando ADS</strong>
-- :computer: &nbsp; <strong>Banco de Dados (DDL, DML), Algoritmo e Estrutura de Dados, Front End.</strong>
+- :computer: &nbsp; <strong>Banco de Dados, Algoritmo e Estrutura de Dados, Front End.</strong>
 
 <p align="center">
 
