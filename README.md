@@ -27,6 +27,6 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbarbosaws&show_icons=true&theme=radical" alt="Github status" />
 </a>
 ___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorbarbosaws" alt="Status" /> </p>
 
 ### Obrigado por visitar!!
