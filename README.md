@@ -19,7 +19,6 @@ Eu sou <strong>Igor Barbosa</strong>, <strong>Explorando o univeso da programaç
 
 </div>
 
-___
 
 ## Algumas estatísticas minhas:
 
