@@ -1,17 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=55&fontAlignY=20&section=header"/>
 
 ---
 <!--<div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00EE00&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,WORLD!+My+name+is+Igor+Barbosa;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29) -->
 
+<div align="center">
+
 <h2> <img src="https://images.emojiterra.com/google/android-11/512px/1f596.png" width="24px"> Hello, world! <img src="https://i.pinimg.com/originals/46/fc/21/46fc218cb9442564dc04f59322665222.gif" width="24px"> Me chamo <strong>Igor Barbosa</strong>. <img src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif" width="24"></h2>
 
-<h3> :man_office_worker: 💻 Sobre mim: </h3>
 
-- :books: &nbsp; <strong>Ciência de Dados</strong>
-- 🎓 &nbsp; <strong>ADM + ADS</strong>
-- :computer: &nbsp; <strong>Python, Banco de Dados.</strong>
+<h3>Sobre mim:</h3>
+
+:bar_chart: &nbsp; <strong>Formado em Administração pela UNINASSAU</strong>
+:computer: &nbsp; <strong>Graduando em Análise e Desenvolvimento de Sistemas pelo SENAC<strong>
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img  alt="IB-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
@@ -69,5 +72,5 @@ Obrigado por visitar!!
 ---
 
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=55&fontAlignY=40&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
