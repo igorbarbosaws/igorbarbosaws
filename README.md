@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000a0&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000a0&height=120&section=header"/>
 
 ---
 <!--<div align="center">
@@ -54,7 +54,6 @@ Graduando em ADS pelo SENAC</h4>
 <a href="https://github.com/igorbarbosaws">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarbosaws&layout=compact&theme=radical" />
 </a>
-</div>
 <div align="center">  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=igorbarbosaws" alt="Status" /> </p>
 <h2>Obrigado por visitar!!</h2>
@@ -75,5 +74,5 @@ Graduando em ADS pelo SENAC</h4>
 ---
 
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000a0&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000a0&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
