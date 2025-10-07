@@ -12,7 +12,7 @@
 
 <h3>Sobre mim:</h3>
 
-<h4>⚡Aspirante a Dev com fascínio por dados e amante da tecnologia. <br>📊 Graduado em ADM pela UNINASSAU<br>
+<h4>⚡Aspirante a Dev Full-Stack. <br>📊 Graduado em ADM pela UNINASSAU<br>
 💻 Graduando em ADS pelo SENAC</h4>
 
 ### 🤖 Linguagens e Tecnologias
