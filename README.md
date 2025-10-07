@@ -10,7 +10,7 @@
 <h2> <img src="https://images.emojiterra.com/google/android-11/512px/1f596.png" width="24px"> Hello, world! <img src="https://i.pinimg.com/originals/46/fc/21/46fc218cb9442564dc04f59322665222.gif" width="24px"> <br> Me chamo <strong>Igor Barbosa</strong>. <img src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" width="24"></h2>
 
 
-<h3>Quem sou eu?</h3>
+<h3>Sobre mim:</h3>
 
 <h4>⚡Aspirante a Dev com fascínio por dados e amante da tecnologia. <br>📊 Graduado em ADM pela UNINASSAU<br>
 💻 Graduando em ADS pelo SENAC</h4>
