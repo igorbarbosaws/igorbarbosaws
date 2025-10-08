@@ -139,7 +139,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:SEU-EMAIL-AQUI)](mailto:igorbarbosaws@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&color=black&link=SEU-MEDIUM-AQUI)](SEU-MEDIUM-AQUI)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=SEU-PORTFOLIO-AQUI)](SEU-PORTFOLIO-AQUI)
-
+-->
 </div>
 
 ## Algumas estatísticas minhas:
