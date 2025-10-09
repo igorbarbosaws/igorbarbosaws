@@ -145,21 +145,25 @@
 ## Algumas estatísticas minhas:
 
 <a href="https://github.com/igorbarbosaws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbarbosaws&show_icons=true&theme=radical" alt="Github status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbarbosaws&show_icons=true&theme=dark" alt="Github status" />
 </a>
 <a href="https://github.com/igorbarbosaws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarbosaws&layout=compact&theme=radical" />
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=igorbarbosaws&theme=dark&hide_border=false)" alt="Github status" />
+</a>
+<a href="https://github.com/igorbarbosaws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarbosaws&layout=compact&theme=dark" />
 </a>
 <div align="center">  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=igorbarbosaws" alt="Status" /> </p>
 <h2>Obrigado por visitar!!</h2>
 </div>
 
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorbarbosaws/igorbarbosaws/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorbarbosaws/igorbarbosaws/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igorbarbosaws/igorbarbosaws/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 <!-- ## 🏆 GitHub Trophies
