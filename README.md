@@ -15,7 +15,7 @@
 <h4>⚡Aspirante a Dev Full-Stack. <br>📊 Graduado em ADM pela UNINASSAU<br>
 💻 Graduando em ADS pelo SENAC</h4>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias:
 
 <img 
     align="center" 
