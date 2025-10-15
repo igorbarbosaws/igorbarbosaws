@@ -19,6 +19,14 @@
 
 <img 
     align="center" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -59,11 +67,11 @@
 />
 <img 
     align="center" 
-    alt="Java"
-    title="Java" 
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="center" 
@@ -83,19 +91,11 @@
 />
 <img 
     align="center" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="center" 
     alt="Canva" 
     title="Canva"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+    src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/de7541874c2a46c5b6173eee41fa359a" 
 />
 <img 
     align="center" 
