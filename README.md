@@ -129,14 +129,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="center" 
-    alt="Windows" 
-    title="Windows"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" 
-/>
 <br/>
 <br/>
 
@@ -154,9 +146,6 @@
 
 <a href="https://github.com/igorbarbosaws">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbarbosaws&show_icons=true&theme=dark" alt="Github status" />
-</a>
-<a href="https://github.com/igorbarbosaws">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=igorbarbosaws&theme=dark&hide_border=false)" alt="Github status" />
 </a>
 <a href="https://github.com/igorbarbosaws">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarbosaws&layout=compact&theme=dark" />
